@@ -13,6 +13,10 @@
 
 🗄️ Database Integration: User information is persisted in a structured MySQL table for easy management.
 
+PHPMyAdmin-Database
+
+<img width="400" height="auto" alt="Screenshot 2025-10-22 192608" src="https://github.com/user-attachments/assets/2eb506bf-d472-4c0a-b1f6-936dc220d375" />
+
 Login page:
 
 <img width="400" height="auto" alt="Screenshot 2025-10-22 185205" src="https://github.com/user-attachments/assets/c7240aa4-3341-4411-973e-9bfa8f098358" />
